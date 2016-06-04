@@ -1,0 +1,16 @@
+.roundbox {
+	-webkit-border-radius: 39px 20px 20px 20px;
+	-moz-border-radius: 39px 20px 20px 20px;
+	border-radius: 39px 20px 20px 20px;
+	border:2px solid #5736FF;
+	padding: 2em;
+	max-width: 25em;
+}
+
+.item {
+	max-width: 10em;
+}
+
+img {
+	width: 100%;
+}
