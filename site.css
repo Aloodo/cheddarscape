@@ -1,16 +1,35 @@
-.roundbox {
+h1 {
+	margin: 0px;
+	padding: 0px;
+}
+
+div {
+	display: inline;
+	padding: 2em;
+	width: 100%;
+}
+
+.category {
 	-webkit-border-radius: 39px 20px 20px 20px;
 	-moz-border-radius: 39px 20px 20px 20px;
 	border-radius: 39px 20px 20px 20px;
-	border:2px solid #5736FF;
+	border:2px solid black;
 	padding: 2em;
 	max-width: 25em;
+	display: block;
 }
 
 .item {
-	max-width: 10em;
+	padding: 1em;
+}
+
+a {
+	outline: 0;
+	text-decoration: none;
 }
 
 img {
 	width: 100%;
+	max-width: 10em;
 }
+
