@@ -5,6 +5,12 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cheddarscape", "cheddarscape\cheddarscape.csproj", "{3289059C-F0C9-4381-BDCA-2613EA0865C0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{98776CF4-17C9-43CF-9F59-AFCC5AA2E76B}"
+	ProjectSection(SolutionItems) = preProject
+		baycloud.txt = baycloud.txt
+		..\logos\README = ..\logos\README
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
